@@ -1,19 +1,25 @@
-HARDERSTYLEZZ RADIO — WEBSITE UPDATE
-===================================
-Upload all loose files from this folder to the ROOT of your GitHub repository:
+HARDERSTYLEZZ — PREMIUM HYBRID
+================================
+A completely new, responsive, static website (English language).
+Files: index.html, styles.css, app.js, releases.js and assets/.
+
+PREVIEW FIRST:
+Extract ZIP and open index.html in Chrome/Edge. You can review the new design
+without touching the current live website.
+
+PUBLISH LATER:
+Upload ALL extracted files/folders to the repository root:
 https://github.com/harderstylezz/harderstylezz-radio/upload/main
-Choose Commit changes, then refresh https://harderstylezz.github.io/harderstylezz-radio/
+Commit changes. Keep the assets/ folder and all of its contents.
 
-Included: updated navigation, Spotify radio promotion, Wings of Freedom art,
-5 albums and 5 singles, new Stay Connected layout, About copy, responsive CSS.
-
-IMPORTANT RELEASE NOTE:
-The release covers are crops of the ORIGINAL Spotify cover art shown in your screenshots,
-NOT the high-resolution original image files. They will look softer at large sizes.
-Release links currently search Spotify for each specific title, because the 10 individual
-direct Spotify release URLs were not supplied or verified. Replace these links with
-the verified release URLs when available. Aqua Noctis subtitle is provisional.
-
-No actual 24/7 live streaming is provided by this static site.
-
-Social platform symbols are loaded as recognizable Simple Icons SVGs via a CDN (internet connection required).
+IMPORTANT LIMITATIONS:
+- The album/single images are small Spotify screenshot crops. They show the
+  actual cover designs but are NOT original high-resolution Spotify assets.
+- Direct Spotify links to each of the 10 releases were not provided or verified.
+  Until they are, the release tiles use title-specific Spotify search URLs.
+  Edit releases.js to add exact release links and high-resolution artwork later.
+- The castle image is a crop of your earlier concept illustration; no old
+  baked-in site navigation/text is included in this new hero.
+- The radio image is from your supplied reference screenshot and is low resolution.
+- This is a Spotify/YouTube music hub, not a live audio stream.
+- Google Fonts requires internet; fallback fonts are available offline.
