@@ -1,19 +1,19 @@
-HARDERSTYLEZZ RADIO — REBUILT WEBSITE
+HARDERSTYLEZZ RADIO — WEBSITE UPDATE
+===================================
+Upload all loose files from this folder to the ROOT of your GitHub repository:
+https://github.com/harderstylezz/harderstylezz-radio/upload/main
+Choose Commit changes, then refresh https://harderstylezz.github.io/harderstylezz-radio/
 
-This version uses the EXACT image you provided as its source. The hero and showcase art are crops of that reference image, not unrelated AI images.
+Included: updated navigation, Spotify radio promotion, Wings of Freedom art,
+5 albums and 5 singles, new Stay Connected layout, About copy, responsive CSS.
 
-Upload ALL loose files (index.html, style.css, script.js and all .jpg files) into the ROOT of your public GitHub repository. Do not upload the ZIP itself. Replace existing files when prompted.
+IMPORTANT RELEASE NOTE:
+The release covers are crops of the ORIGINAL Spotify cover art shown in your screenshots,
+NOT the high-resolution original image files. They will look softer at large sizes.
+Release links currently search Spotify for each specific title, because the 10 individual
+direct Spotify release URLs were not supplied or verified. Replace these links with
+the verified release URLs when available. Aqua Noctis subtitle is provisional.
 
-Then open Settings > Pages:
-Source: Deploy from a branch
-Branch: main
-Folder: /(root)
-Save. Wait for GitHub Pages to finish publishing.
+No actual 24/7 live streaming is provided by this static site.
 
-Site URL: https://harderstylezz.github.io/harderstylezz-radio/
-
-IMPORTANT:
-- The supplied reference screenshot contains text and controls baked into the hero image. Desktop preserves that exact appearance; the large play region links to the playlists. On mobile, fresh HTML text and a real clickable button are used over the same background image.
-- Track titles in the showcase are for display only. No fabricated playback or false LIVE indicator. Spotify and YouTube embeds provide actual playback.
-- The five album images are cropped from the user-supplied reference; they are not independently verified as current Spotify releases. Official Spotify embeds below the gallery display real album artwork and playback.
-- A real 24/7 AzuraCast stream can be integrated later.
+Social platform symbols are loaded as recognizable Simple Icons SVGs via a CDN (internet connection required).
