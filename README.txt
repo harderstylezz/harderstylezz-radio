@@ -1,1 +1,1 @@
-IMAGE FIX V3: Upload every file in this ZIP directly to the ROOT of the GitHub repository. The page uses new CSS/JS filenames to bypass old cached references. Do not upload the ZIP itself. Wait for GitHub Pages deploy and refresh with Ctrl+F5.
+Upload these three files to the root of your GitHub repository. The new hero is shorter and shows the castle without zooming. Other site files remain unchanged.
