@@ -1,5 +1,1 @@
-HARDERSTYLEZZ RADIO - SIMPLE ROOT FOLDER VERSION
-
-Extract this ZIP and upload ALL 18 files to the MAIN folder of your GitHub repository. No assets folder is needed. The old files with the same names should be overwritten.
-
-The album covers are low-resolution previews and the individual release links currently use Spotify searches. This is a music hub, not a live radio stream.
+IMAGE FIX V3: Upload every file in this ZIP directly to the ROOT of the GitHub repository. The page uses new CSS/JS filenames to bypass old cached references. Do not upload the ZIP itself. Wait for GitHub Pages deploy and refresh with Ctrl+F5.
