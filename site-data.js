@@ -5,6 +5,7 @@ window.HARDERSTYLEZZ_DATA = {
   release: {title:'The Silent Realm', date:'2026-11-13T00:00:00+01:00', artwork:'silent-realm.jpg', link:'', description:'A new journey into hypnotic hardstyle.'},
   links: {
     spotifyPlaylist:'https://open.spotify.com/playlist/3tQu5lZA2vadyCyvQaaVO2',
+    youtubeOfficialReleases:'https://www.youtube.com/channel/UCy9JzLbA_5kqcZcvr2yZz0A',
     youtubePlaylist:'https://www.youtube.com/watch?v=-uyeBFGShs4&list=PLchs8xEWc2ttLyERy9q5p9cRi4tLaBt-i',
     spotifyArtist:'https://open.spotify.com/artist/28rzD1jWdSxeYJH11BiSSv',
     youtube:'https://www.youtube.com/@HarderStyleZZ_official',

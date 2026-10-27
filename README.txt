@@ -1,5 +1,1 @@
-HARDERSTYLEZZ MUSIC HUB - IMAGE PATH FIX
-
-All image files now live in the same root folder as index.html, matching the layout visible in your GitHub repository.
-Upload ALL files from this folder directly to the root of harderstylezz/harderstylezz-radio, not inside an additional folder. Commit changes and wait for GitHub Pages deployment.
-Older extra files in the repository do not prevent the site from working.
+HarderstyleZZ Music Hub — updated hero image (3840 x 2160 upscaled from generated 1672 x 941 source). Includes contact, socials, official YouTube releases and all existing images. Upload all files directly to GitHub repository root. No extra folder.
