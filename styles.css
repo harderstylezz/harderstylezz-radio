@@ -65,3 +65,13 @@
 .counter-section{display:flex;justify-content:space-between;align-items:center;gap:25px;margin-top:26px;padding:28px 35px;border:1px solid rgba(215,183,115,.28);border-radius:12px;background:linear-gradient(110deg,#0b1b2e,#17273a)}
 .counter-section h2{margin:9px 0}.counter-figure{text-align:center;min-width:210px}.counter-figure strong{display:block;color:#eacb8b;font-size:clamp(32px,4vw,52px);font-variant-numeric:tabular-nums;letter-spacing:.06em}.counter-figure small{display:block;color:#b7c5d4;font-size:9px;letter-spacing:.13em}
 @media(max-width:800px){.news-grid{grid-template-columns:1fr 1fr}}@media(max-width:600px){.news-grid{grid-template-columns:1fr}.news-section{padding:22px 18px}.counter-section{flex-direction:column;align-items:flex-start;padding:24px 20px}.counter-figure{min-width:0;text-align:left}}
+
+/* Premium YouTube call-to-action styling */
+.show-button{display:inline-flex;align-items:center;justify-content:center;gap:9px;background:linear-gradient(115deg,#7f1b28,#b42b39 54%,#811e2a);color:#fff5e9;border:1px solid #d6a76b;border-radius:8px;box-shadow:inset 0 1px 0 #ffffff20,0 5px 18px #0008,0 0 0 1px #d6a76b22;font-weight:800;letter-spacing:.11em;text-shadow:0 1px 2px #0005;transition:transform .2s ease,box-shadow .2s ease,filter .2s ease}
+.show-button:hover,.show-button:focus-visible{transform:translateY(-2px);filter:brightness(1.12);box-shadow:0 8px 25px #0009,0 0 18px #d6a76b66;outline-offset:3px}
+.listen-card.youtube:not(.official-releases){background:radial-gradient(circle at 12% 45%,#a42b3240,transparent 55%),linear-gradient(120deg,#1b2534,#0a1321);border-color:#bc805b;box-shadow:inset 0 0 0 1px #d7b67b19}
+.listen-card.youtube:not(.official-releases) .platform-icon{display:grid;place-items:center;flex-shrink:0;width:62px;height:46px;border-radius:13px;background:linear-gradient(135deg,#e5434c,#a41c2b);color:white;font-size:25px;box-shadow:0 7px 22px #9e172c66,0 0 0 1px #efbf8a55;transition:transform .2s ease}
+.listen-card.youtube:not(.official-releases):hover .platform-icon{transform:scale(1.08)}
+.listen-card.youtube:not(.official-releases) strong{color:#f4d6a6}
+.listen-card.youtube:not(.official-releases) em{color:#f0c68b;font-weight:bold}
+@media(prefers-reduced-motion:reduce){.show-button,.listen-card.youtube .platform-icon{transition:none}}
