@@ -2,7 +2,7 @@
 window.HARDERSTYLEZZ_DATA = {
   brand: 'HarderstyleZZ',
   tagline: 'Music Connects Us',
-  release: {title:'The Silent Realm', date:'2026-11-13T00:00:00+01:00', artwork:'silent-realm.jpg', link:'', description:'A new journey into the unknown.'},
+  release: {title:'The Silent Realm', date:'2026-11-13T00:00:00+01:00', artwork:'silent-realm.jpg', link:'', description:'A new journey into hypnotic hardstyle.'},
   links: {
     spotifyPlaylist:'https://open.spotify.com/playlist/3tQu5lZA2vadyCyvQaaVO2',
     youtubePlaylist:'https://www.youtube.com/watch?v=-uyeBFGShs4&list=PLchs8xEWc2ttLyERy9q5p9cRi4tLaBt-i',

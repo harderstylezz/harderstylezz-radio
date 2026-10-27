@@ -6,3 +6,7 @@
 /* Official Spotify playlist artwork */
 .listen-card.spotify .playlist-cover{width:82px;height:82px;object-fit:cover;border-radius:9px;flex-shrink:0;box-shadow:0 7px 24px #0007}
 @media(max-width:650px){.listen-card.spotify .playlist-cover{width:66px;height:66px}}
+
+/* Hero image: preserve original horizontal framing without enlargement on desktop. */
+@media(min-width:651px){.hero{min-height:0;height:clamp(340px,40vw,640px);background-size:auto,100% auto;background-position:center,center center}}
+@media(max-width:650px){.hero{background-position:center,64% center;background-size:auto,cover}}
