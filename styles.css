@@ -42,3 +42,10 @@
 
 /* Contact — premium dark navy and gold */
 .contact-section{display:flex;align-items:center;justify-content:space-between;gap:35px;padding:45px 48px;margin-top:26px;background:linear-gradient(120deg,#0b1929 0%,#102338 60%,#101c2b 100%);border:1px solid rgba(206,165,95,.24);border-radius:12px}.contact-copy{max-width:620px}.contact-copy h2{margin:10px 0 14px;color:#f4f0e9}.contact-copy p{color:#bdc9d6;line-height:1.7}.contact-mail{display:inline-flex;align-items:center;gap:15px;margin-top:15px;padding:15px 20px;border:1px solid #b8975d;border-radius:8px;background:linear-gradient(115deg,#182c42,#102136);color:#f5e3c4;text-decoration:none;transition:transform .2s,border-color .2s,background .2s}.contact-mail:hover,.contact-mail:focus-visible{transform:translateY(-2px);border-color:#f0cd87;background:#223c55}.contact-mail-icon{font-size:29px;color:#d8b879}.contact-mail strong,.contact-mail small{display:block}.contact-mail strong{font-size:13px;letter-spacing:1.5px}.contact-mail small{font-size:12px;color:#c3cedb;margin-top:5px}.contact-arrow{font-size:23px;color:#d8b879;margin-left:12px}.contact-art{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;min-width:170px;color:#d6b67a;opacity:.65}.contact-art span{font-size:95px;line-height:1}.contact-art small{font-size:10px;letter-spacing:3px}@media(max-width:700px){.contact-section{padding:29px 20px}.contact-art{display:none}.contact-mail{max-width:100%;padding:12px}.contact-mail small{overflow-wrap:anywhere}.contact-arrow{margin-left:0}}
+
+/* About: AI-driven production disclosure */
+.ai-production{margin-top:1.6rem;padding:1.3rem 1.4rem;border:1px solid rgba(209,171,99,.3);border-radius:14px;background:linear-gradient(135deg,rgba(209,171,99,.09),rgba(10,22,38,.24))}
+.ai-production h3{color:#dfbd78;font-size:.93rem;letter-spacing:.12em;margin:0 0 .9rem}
+.ai-production p{margin:.65rem 0;line-height:1.75}
+.ai-production .ai-signature{color:#dfbd78;font-weight:700;margin-top:1rem}
+.copyright a{color:#d7b773;text-decoration:none}.copyright a:hover{text-decoration:underline}
