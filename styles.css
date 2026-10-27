@@ -75,3 +75,10 @@
 .listen-card.youtube:not(.official-releases) strong{color:#f4d6a6}
 .listen-card.youtube:not(.official-releases) em{color:#f0c68b;font-weight:bold}
 @media(prefers-reduced-motion:reduce){.show-button,.listen-card.youtube .platform-icon{transition:none}}
+
+/* Music Hub — premium soft-green playback treatment */
+.listen-card.spotify{background:radial-gradient(circle at 8% 50%,rgba(113,210,145,.20),transparent 52%),linear-gradient(115deg,#173a32 0%,#15362f 43%,#0a1c24 100%);border-color:#8bd4a0;box-shadow:inset 0 1px 0 #d8ffe51a,0 5px 20px #0004;transition:transform .2s,border-color .2s,box-shadow .2s,filter .2s}
+.listen-card.spotify em{align-self:flex-start;display:inline-flex;align-items:center;justify-content:center;padding:10px 15px;border-radius:8px;background:linear-gradient(115deg,#c5f6c9 0%,#82dda0 48%,#4cbf83 100%);border:1px solid #d6ffda;color:#0a3324;font-weight:800;letter-spacing:.1em;box-shadow:inset 0 1px 0 #fff9,0 5px 16px #35b97533;transition:transform .2s,box-shadow .2s,filter .2s}
+.listen-card.spotify:hover,.listen-card.spotify:focus-visible{border-color:#bdf2c9;box-shadow:0 9px 28px #30a96c25,inset 0 1px 0 #d8ffe522}
+.listen-card.spotify:hover em,.listen-card.spotify:focus-visible em{filter:brightness(1.07);box-shadow:0 6px 22px #55dc9855}
+@media(prefers-reduced-motion:reduce){.listen-card.spotify,.listen-card.spotify em{transition:none}}
