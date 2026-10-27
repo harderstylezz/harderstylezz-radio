@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "title": "Classified Outdoor proves itself as the festival for the new generation",
+      "date": "20 OCT 2026",
+      "url": "https://hardstyle.com/en/news"
+    },
+    {
+      "title": "Hard Bass 2026: the GelreDome reminded us what hardstyle is all about",
+      "date": "13 OCT 2026",
+      "url": "https://hardstyle.com/en/news"
+    },
+    {
+      "title": "If you love zaagkicks and uptempo, Slow Down is the event for you",
+      "date": "24 SEP 2026",
+      "url": "https://hardstyle.com/en/news"
+    },
+    {
+      "title": "Resilience & ERABREAK about BLOW: Our ideas align perfectly",
+      "date": "28 AUG 2026",
+      "url": "https://hardstyle.com/en/news"
+    },
+    {
+      "title": "Supremacy Classics returns with a massive rawstyle line-up",
+      "date": "25 AUG 2026",
+      "url": "https://hardstyle.com/en/news"
+    },
+    {
+      "title": "D-Block & S-te-Fan & Phuture Noize finally unleash Arcadia",
+      "date": "21 AUG 2026",
+      "url": "https://hardstyle.com/en/news"
+    }
+  ],
+  "source": "Hardstyle.com",
+  "mode": "curated fallback"
+}

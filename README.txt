@@ -11,3 +11,7 @@ UPLOAD TO GITHUB:
 
 Custom domain: www.harderstylezz.com
 Do not remove the CNAME file.
+
+NEW: Hardstyle News section and simulated community counter starting at 12,247 on 27 October 2026.
+News: news.json contains verified headlines from Hardstyle.com. Until automated updates are configured, edit news.json to update headlines; cards currently link to the Hardstyle.com news index, not individual stories.
+Cloudflare Web Analytics: automatic setup was selected in the dashboard, but actual beacon collection must be checked. Because GitHub Pages DNS records are DNS-only, Cloudflare auto-injection may not work; manual beacon installation may be required.
