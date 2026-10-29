@@ -14,7 +14,9 @@ window.HARDERSTYLEZZ_DATA = {
     tiktok:'https://www.tiktok.com/@harderstylezz_official',
     email:'mailto:harderstylezz3@gmail.com'
   },
+  spotlight: {month:'NOVEMBER 2026',title:'Nebula Dreams 2.0',artist:'HarderstyleZZ',art:'spotlight-nebula-dreams-2.jpg',url:'https://www.youtube.com/watch?v=8oYrOn-NXE0'},
   shows: [
+    {category:'NEW EPISODE · MONTHLY MIX SERIES',title:'Euphoric Motion',subtitle:'November 2026 · Episode 11',description:'Euphoric Hardstyle Mix 2026',art:'show-euphoric-motion-episode-11.jpg',url:'https://www.youtube.com/watch?v=a9w-b2d1Odk',unlockAt:'2026-10-31T18:00:00+01:00'},
     {category:'MONTHLY MIX SERIES',title:'Euphoric Motion',subtitle:'October 2026 · Episode 10',description:'Euphoric Hardstyle Mix 2026',art:'show-euphoric-motion.jpg',url:'https://www.youtube.com/watch?v=rKq3OE5dlBc'},
     {category:'MONTHLY MIX SERIES',title:'Rawstyle Madness',subtitle:'October 2026 · Episode 10',description:'Rawstyle Mix 2026',art:'show-rawstyle-madness.jpg',url:'https://www.youtube.com/watch?v=6Cbgsw_1tnI'},
     {category:'ARTIST SPOTLIGHT',title:'Spotlight Sessions',subtitle:'Demi Kanon · October 2026 · Episode 01',description:'Featured Artist Session',art:'show-spotlight-demi-kanon.jpg',url:'https://www.youtube.com/watch?v=TL4J8sRB_vU'},
