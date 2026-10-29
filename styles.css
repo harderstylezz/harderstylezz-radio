@@ -108,3 +108,30 @@
 .members-embed #mlb2-47805818 .ml-form-embedWrapper.embedForm{max-width:400px;width:100%}
 .members-embed #mlb2-47805818 .ml-form-embedContent h4{font-size:23px;line-height:1.2;font-weight:700}
 @media(max-width:760px){.members-section{grid-template-columns:1fr;padding:22px 16px;gap:16px}.members-embed{width:100%}}
+
+/* Premium Members Club invitation – October 2026 */
+.members-section{display:block;position:relative;padding:0!important;overflow:hidden;background:radial-gradient(ellipse at 80% 12%,#23385b 0%,transparent 55%),linear-gradient(135deg,#07111f,#101e34 62%,#081321);border:1px solid rgba(219,180,103,.55);box-shadow:0 18px 55px rgba(0,0,0,.25);margin:26px 0 32px}
+.members-section:before{content:"";position:absolute;inset:9px;border:1px solid rgba(214,174,100,.18);pointer-events:none;z-index:1}
+.members-topline{display:flex;justify-content:space-between;gap:15px;padding:23px 34px 0;color:#dcbf83;font-size:10px;letter-spacing:.22em;font-weight:700}
+.members-hero{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(210px,.8fr);gap:28px;padding:30px 34px 30px;align-items:center}
+.members-copy h2{font-size:clamp(31px,4.3vw,59px);line-height:1.04;letter-spacing:-.025em;color:#f6f2e9;margin:12px 0 19px;max-width:680px}
+.members-copy h2 em{font-style:normal;color:#e2bf78}
+.members-copy p{max-width:600px;color:#bdc9d8;font-size:15px;line-height:1.75}
+.members-copy .members-lead{font-size:clamp(18px,2vw,23px);color:#f0d39b;font-weight:600;margin-bottom:8px}
+.members-copy .members-note{margin-top:22px;font-size:11px;letter-spacing:.16em;color:#d9b56c}
+.members-benefits{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:26px}
+.members-benefits>div{display:flex;flex-direction:column;gap:8px;padding:16px 12px;background:rgba(255,255,255,.035);border:1px solid rgba(219,180,103,.24);border-radius:8px}
+.members-benefits span{font-size:22px;color:#e2bd71}
+.members-benefits strong{font-size:11px;letter-spacing:.08em;color:#f3e3c2}
+.members-benefits small{font-size:11px;line-height:1.5;color:#b7c5d4}
+.members-photo{position:relative;align-self:stretch;min-height:340px;border:1px solid rgba(219,180,103,.42);border-radius:9px;overflow:hidden;background:#101b2b}
+.members-photo img{width:100%;height:100%;position:absolute;inset:0;object-fit:cover;object-position:center 25%;filter:saturate(.8) contrast(1.08)}
+.members-photo:after{content:"";position:absolute;inset:35% 0 0;background:linear-gradient(transparent,rgba(4,12,25,.85))}
+.members-photo span{position:absolute;bottom:21px;left:15px;right:15px;z-index:1;text-align:center;color:#f0d397;font-weight:700;font-size:12px;letter-spacing:.15em}
+.members-signup{position:relative;display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,420px);gap:30px;align-items:center;padding:25px 34px 30px;background:rgba(6,13,25,.72);border-top:1px solid rgba(219,180,103,.3)}
+.members-signup-intro h3{font-size:clamp(20px,2.6vw,31px);color:#f3d391;margin:8px 0}
+.members-signup-intro p{color:#c0ccdb;line-height:1.65}
+.members-embed{width:100%;min-width:0;display:flex;justify-content:center}
+.members-embed #mlb2-47805818.ml-form-embedContainer{width:100%!important;max-width:420px}
+.members-embed #mlb2-47805818 .ml-form-embedWrapper.embedForm{width:100%;max-width:420px}
+@media(max-width:760px){.members-topline{padding:22px 20px 0;flex-direction:column;gap:6px;font-size:9px}.members-hero{grid-template-columns:1fr;padding:23px 20px;gap:22px}.members-copy h2{font-size:clamp(32px,9vw,45px)}.members-benefits{grid-template-columns:1fr;gap:8px}.members-benefits>div{display:grid;grid-template-columns:28px 1fr;gap:3px 10px;align-items:center;padding:12px}.members-benefits span{grid-row:span 2}.members-photo{min-height:240px;max-height:330px}.members-signup{grid-template-columns:1fr;padding:24px 16px 26px;gap:14px}.members-section:before{inset:5px}}
