@@ -16,7 +16,7 @@ window.HARDERSTYLEZZ_DATA = {
   },
   spotlight: {month:'NOVEMBER 2026',title:'Nebula Dreams 2.0',artist:'HarderstyleZZ',art:'spotlight-nebula-dreams-2.jpg',url:'https://www.youtube.com/watch?v=8oYrOn-NXE0'},
   shows: [
-    {category:'UPCOMING MIX · ARTIST SPOTLIGHT',title:'Spotlight Sessions',subtitle:'Atmozfears · November 2026 · Episode 02',description:'Featured Artist Session · Premieres Friday 6 November at 18:00 CET',art:'show-spotlight-atmozfears-episode-02.jpg',url:'https://www.youtube.com/watch?v=YmYwlObOltU',unlockAt:'2026-11-06T18:00:00+01:00',previewLink:true},
+    {category:'UPCOMING MIX · ARTIST SPOTLIGHT',title:'Spotlight Sessions',subtitle:'Atmozfears · November 2026 · Episode 02',description:'Featured Artist Session · Premieres Friday 6 November at 18:00 CET',art:'show-spotlight-atmozfears-episode-02.jpg',url:'https://www.youtube.com/watch?v=YmYwlObOltU',unlockAt:'2026-11-06T18:00:00+01:00',previewLink:false},
     {category:'NEW EPISODE · MONTHLY MIX SERIES',title:'Euphoric Motion',subtitle:'November 2026 · Episode 11',description:'Euphoric Hardstyle Mix 2026',art:'show-euphoric-motion-episode-11.jpg',url:'https://www.youtube.com/watch?v=a9w-b2d1Odk',unlockAt:'2026-10-31T18:00:00+01:00'},
     {category:'MONTHLY MIX SERIES',title:'Euphoric Motion',subtitle:'October 2026 · Episode 10',description:'Euphoric Hardstyle Mix 2026',art:'show-euphoric-motion.jpg',url:'https://www.youtube.com/watch?v=rKq3OE5dlBc'},
     {category:'MONTHLY MIX SERIES',title:'Rawstyle Madness',subtitle:'October 2026 · Episode 10',description:'Rawstyle Mix 2026',art:'show-rawstyle-madness.jpg',url:'https://www.youtube.com/watch?v=6Cbgsw_1tnI'},
