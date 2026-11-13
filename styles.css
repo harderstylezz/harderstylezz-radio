@@ -135,3 +135,9 @@
 .members-embed #mlb2-47805818.ml-form-embedContainer{width:100%!important;max-width:420px}
 .members-embed #mlb2-47805818 .ml-form-embedWrapper.embedForm{width:100%;max-width:420px}
 @media(max-width:760px){.members-topline{padding:22px 20px 0;flex-direction:column;gap:6px;font-size:9px}.members-hero{grid-template-columns:1fr;padding:23px 20px;gap:22px}.members-copy h2{font-size:clamp(32px,9vw,45px)}.members-benefits{grid-template-columns:1fr;gap:8px}.members-benefits>div{display:grid;grid-template-columns:28px 1fr;gap:3px 10px;align-items:center;padding:12px}.members-benefits span{grid-row:span 2}.members-photo{min-height:240px;max-height:330px}.members-signup{grid-template-columns:1fr;padding:24px 16px 26px;gap:14px}.members-section:before{inset:5px}}
+
+/* Scheduled single card in Latest Singles & EPs */
+.cover-gated{min-width:0;display:block}.cover-subtitle{font-size:9px;line-height:1.4;color:#aebbc8;margin:5px 0 0;letter-spacing:.04em}.cover-release-status{font-size:9px;line-height:1.4;color:var(--gold);margin:7px 0 0;letter-spacing:.04em}.cover-release-button{display:block;text-align:center;margin-top:8px;padding:10px 7px;font-size:9px;line-height:1.35}.cover-release-button.show-locked{cursor:not-allowed}
+
+/* Multi-source news cards */
+.news-thumb{width:100%;height:135px;object-fit:cover;border-radius:7px;background:#0b1727}.news-grid{align-items:stretch}.news-card{overflow:hidden}

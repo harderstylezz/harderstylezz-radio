@@ -1,0 +1,1 @@
+Added The Silent Realm (The Awakening) to Singles & EPs with original cover and Spotify track link. Existing singles and shows preserved. Upload all ZIP contents to GitHub Pages repository root.
