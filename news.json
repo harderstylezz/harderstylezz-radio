@@ -1,36 +1,56 @@
-{
-  "items": [
-    {
-      "title": "Classified Outdoor proves itself as the festival for the new generation",
-      "date": "20 OCT 2026",
-      "url": "https://hardstyle.com/en/news"
-    },
-    {
-      "title": "Hard Bass 2026: the GelreDome reminded us what hardstyle is all about",
-      "date": "13 OCT 2026",
-      "url": "https://hardstyle.com/en/news"
-    },
-    {
-      "title": "If you love zaagkicks and uptempo, Slow Down is the event for you",
-      "date": "24 SEP 2026",
-      "url": "https://hardstyle.com/en/news"
-    },
-    {
-      "title": "Resilience & ERABREAK about BLOW: Our ideas align perfectly",
-      "date": "28 AUG 2026",
-      "url": "https://hardstyle.com/en/news"
-    },
-    {
-      "title": "Supremacy Classics returns with a massive rawstyle line-up",
-      "date": "25 AUG 2026",
-      "url": "https://hardstyle.com/en/news"
-    },
-    {
-      "title": "D-Block & S-te-Fan & Phuture Noize finally unleash Arcadia",
-      "date": "21 AUG 2026",
-      "url": "https://hardstyle.com/en/news"
-    }
-  ],
-  "source": "Hardstyle.com",
-  "mode": "curated fallback"
-}
+[
+  {
+    "title": "HN T4",
+    "url": "https://hardnews.nl/hn-t4/",
+    "source": "Hard News",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "HN T3",
+    "url": "https://hardnews.nl/hn-t3/",
+    "source": "Hard News",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "HN T2",
+    "url": "https://hardnews.nl/hn-t2/",
+    "source": "Hard News",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "HN T1",
+    "url": "https://hardnews.nl/hn-t1/",
+    "source": "Hard News",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Digital Punk gaat met nieuw album ‘Into The Fire’ geen uitdaging uit de weg",
+    "url": "https://hardnews.nl/digital-punk-gaat-met-nieuw-album-into-the-fire-geen-uitdaging-uit-de-weg/",
+    "source": "Hard News",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Classified verlegt grenzen: “Een hele nieuwe wereld waarin techno en raw samenkomen”",
+    "url": "https://hardnews.nl/classified-verlegt-grenzen-een-hele-nieuwe-wereld-waar-techno-en-raw-samenkomen/",
+    "source": "Hard News",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "3 jaar geleden vond de laatste Live For This van Warface plaats",
+    "url": "https://hardnews.nl/3-jaar-geleden-vond-de-laatste-live-for-this-van-warface-plaats/",
+    "source": "Hard News",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Wolv en Level One bundelen krachten voor nieuwe liveact: The Ascension",
+    "url": "https://hardnews.nl/wolv-en-level-one-bundelen-krachten-voor-nieuwe-liveact-the-ascension/",
+    "source": "Hard News",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "PLAFONDDIENST viert mijlpaal met 100e aflevering",
+    "url": "https://hardnews.nl/plafonddienst-viert-mijlpaal-met-100e-aflevering/",
+    "source": "Hard News",
+    "date": "2026-11-10"
+  }
+]
