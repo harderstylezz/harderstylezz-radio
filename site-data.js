@@ -30,7 +30,7 @@ window.HARDERSTYLEZZ_DATA = {
     {title:'Beyond the Dreamworld',art:'album-beyond-dreamworld.jpg',url:'https://open.spotify.com/album/6erqiGhZn1GQN6Mlwbt1GJ'}
   ],
   singles: [
-    {title:'Under The Surface',subtitle:'HARDERSTYLEZZ · HYPNOTIC HARDSTYLE',description:'New single · Available 20 November 2026 at 00:00 CET',url:'https://youtu.be/5Ed-1IRRZV0',unlockAt:'2026-11-20T00:00:00+01:00'},
+    {title:'Under The Surface',art:'single-under-the-surface.jpg',subtitle:'HARDERSTYLEZZ · HYPNOTIC HARDSTYLE',description:'New single · Available 20 November 2026 at 00:00 CET',url:'https://youtu.be/5Ed-1IRRZV0',unlockAt:'2026-11-20T00:00:00+01:00'},
     {title:'Into the Light (Radio Edit)',art:'single-into-the-light.jpg',url:'https://open.spotify.com/album/26ulTwQ11BlVrAJAqCFsRK'},
     {title:'Luz de Estrellas (Stars of Light)',art:'single-luz-de-estrellas.jpg',url:'https://open.spotify.com/album/2TDUryWE6G76jf2pMfkGf4'},
     {title:'El Primer Rayo',art:'single-el-primer-rayo.jpg',url:'https://open.spotify.com/album/0TxVILfmcih9fJhUOxWfDl'},
