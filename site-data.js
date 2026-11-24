@@ -16,7 +16,7 @@ window.HARDERSTYLEZZ_DATA = {
   },
   spotlight: {month:'DECEMBER 2026',title:'Chasing Forever',artist:'HarderstyleZZ',art:'chasing-forever.jpg',url:'https://www.youtube.com/watch?v=cWvNe910_Iw'},
   shows: [
-    {category:'SPECIAL EDITION',title:'Yearmix 2026',subtitle:'Best of HarderstyleZZ 2026',description:'Year-end mix',art:'yearmix.jpg',unlockAt:'2026-11-28T00:00:00+01:00'},
+    {category:'SPECIAL EDITION',title:'Yearmix 2026',subtitle:'Best of HarderstyleZZ 2026',description:'Year-end mix',art:'yearmix.jpg',unlockAt:'2026-12-28T00:00:00+01:00'},
     {category:'MONTHLY MIX SERIES',title:'Euphoric Motion',subtitle:'December 2026 · Episode 12',description:'Euphoric Hardstyle Mix',art:'euphoric-motion-12.jpg',unlockAt:'2026-12-01T00:00:00+01:00'},
     {category:'MONTHLY MIX SERIES',title:'Rawstyle Madness',subtitle:'December 2026 · Episode 12',description:'Rawstyle Mix',art:'rawstyle-madness-12.jpg',unlockAt:'2026-12-30T00:00:00+01:00'},
     {category:'MONTHLY MIX SERIES',title:'Rawstyle Madness',subtitle:'November 2026 · Episode 11',description:'Rawstyle Mix',art:'rawstyle-madness-11.jpg',url:'https://www.youtube.com/watch?v=LHWqFFm8Nf8'},
