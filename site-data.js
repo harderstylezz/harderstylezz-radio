@@ -2,7 +2,7 @@
 window.HARDERSTYLEZZ_DATA = {
   brand: 'HarderstyleZZ',
   tagline: 'Music Connects Us',
-  release: {title:'The Silent Realm', date:'2026-11-27T19:00:00+01:00', artwork:'silent-realm.jpg', link:'https://youtu.be/i_UDU9ql14c', description:'Enter the darker, hypnotic world of The Silent Realm.'},
+  release: {title:'Christmas Nights & New Year Lights', date:'2026-12-14T00:00:00+01:00', artwork:'christmas.jpg', link:'', description:'Celebrate the festive season with euphoric hardstyle.'},
   links: {
     spotifyPlaylist:'https://open.spotify.com/playlist/3tQu5lZA2vadyCyvQaaVO2',
     youtubeOfficialReleases:'https://www.youtube.com/channel/UCy9JzLbA_5kqcZcvr2yZz0A',
@@ -14,8 +14,12 @@ window.HARDERSTYLEZZ_DATA = {
     tiktok:'https://www.tiktok.com/@harderstylezz_official',
     email:'mailto:harderstylezz3@gmail.com'
   },
-  spotlight: {month:'NOVEMBER 2026',title:'Nebula Dreams 2.0',artist:'HarderstyleZZ',art:'spotlight-nebula-dreams-2.jpg',url:'https://www.youtube.com/watch?v=8oYrOn-NXE0'},
+  spotlight: {month:'DECEMBER 2026',title:'Chasing Forever',artist:'HarderstyleZZ',art:'chasing-forever.jpg',url:'https://www.youtube.com/watch?v=cWvNe910_Iw'},
   shows: [
+    {category:'SPECIAL EDITION',title:'Yearmix 2026',subtitle:'Best of HarderstyleZZ 2026',description:'Year-end mix',art:'yearmix.jpg',unlockAt:'2026-11-28T00:00:00+01:00'},
+    {category:'MONTHLY MIX SERIES',title:'Euphoric Motion',subtitle:'December 2026 · Episode 12',description:'Euphoric Hardstyle Mix',art:'euphoric-motion-12.jpg',unlockAt:'2026-12-01T00:00:00+01:00'},
+    {category:'MONTHLY MIX SERIES',title:'Rawstyle Madness',subtitle:'December 2026 · Episode 12',description:'Rawstyle Mix',art:'rawstyle-madness-12.jpg',unlockAt:'2026-12-30T00:00:00+01:00'},
+    {category:'MONTHLY MIX SERIES',title:'Rawstyle Madness',subtitle:'November 2026 · Episode 11',description:'Rawstyle Mix',art:'rawstyle-madness-11.jpg',url:'https://www.youtube.com/watch?v=LHWqFFm8Nf8'},
     {category:'ARTIST SPOTLIGHT · NEW EPISODE',title:'Spotlight Sessions',subtitle:'Headhunterz · December 2026 · Episode 03',description:'Featured Artist Session',art:'show-spotlight-headhunterz-episode-03.jpg',url:'https://youtu.be/ivuNtw1mxzw',unlockAt:'2026-12-09T00:00:00+01:00'},
     {category:'NEW EPISODE · MONTHLY MIX SERIES',title:'Euphoric Motion',subtitle:'November 2026 · Episode 11',description:'Euphoric Hardstyle Mix 2026',art:'show-euphoric-motion-episode-11.jpg',url:'https://www.youtube.com/watch?v=a9w-b2d1Odk',unlockAt:'2026-10-31T18:00:00+01:00'},
     {category:'MONTHLY MIX SERIES',title:'Euphoric Motion',subtitle:'October 2026 · Episode 10',description:'Euphoric Hardstyle Mix 2026',art:'show-euphoric-motion.jpg',url:'https://www.youtube.com/watch?v=rKq3OE5dlBc'},
@@ -24,6 +28,7 @@ window.HARDERSTYLEZZ_DATA = {
     {category:'SPECIAL EDITION · FAN TRIBUTE',title:'Eternal Origins',subtitle:'Project One · Headhunterz · Wildstylez',description:'Hardstyle Legacy Mix — Independent Fan Tribute',art:'show-eternal-origins.jpg',url:'https://www.youtube.com/watch?v=TEjUU8DO5KI'}
   ],
   albums: [
+    {title:'The Silent Realm',art:'album-silent-realm.jpg',url:'https://youtu.be/i_UDU9ql14c',unlockAt:'2026-11-27T19:00:00+01:00'},
     {title:'Echoes of Mexico — Ecos de México',art:'album-echoes-of-mexico.jpg',url:'https://open.spotify.com/album/5cDhyED8fgz1GtIG0erZQq'},
     {title:'De Dromer',art:'album-de-dromer.jpg',url:'https://open.spotify.com/album/4stnnho8mWsoMKXDEYI0yB'},
     {title:'The Art of Freedom',art:'album-art-of-freedom.jpg',url:'https://open.spotify.com/album/4nHqc2jyPN849yd5TGJn2Z'},
@@ -31,6 +36,10 @@ window.HARDERSTYLEZZ_DATA = {
     {title:'Beyond the Dreamworld',art:'album-beyond-dreamworld.jpg',url:'https://open.spotify.com/album/6erqiGhZn1GQN6Mlwbt1GJ'}
   ],
   singles: [
+    {title:'Clouds of Venus 2.0',art:'clouds-of-venus.jpg',url:'https://www.youtube.com/watch?v=yVRDr5uvLMs'},
+    {title:'Chasing Forever',art:'chasing-forever.jpg',url:'https://www.youtube.com/watch?v=cWvNe910_Iw'},
+    {title:'Kicky Kicky!',art:'kicky-kicky.jpg',comingSoon:true},
+    {title:'Christmas Nights & New Year Lights',art:'christmas.jpg',unlockAt:'2026-12-14T00:00:00+01:00'},
     {title:'The Silent Realm (The Awakening)',art:'single-the-silent-realm-the-awakening.jpg',subtitle:'HARDERSTYLEZZ · HYPNOTIC HARDSTYLE',description:'First single from the forthcoming album The Silent Realm · Out now',url:'https://open.spotify.com/track/22XBBaMzPa9wREN19opUy6'},
     {title:'Under The Surface',art:'single-under-the-surface.jpg',subtitle:'HARDERSTYLEZZ · HYPNOTIC HARDSTYLE',description:'New single · Available 20 November 2026 at 00:00 CET',url:'https://youtu.be/5Ed-1IRRZV0',unlockAt:'2026-11-20T00:00:00+01:00'},
     {title:'Into the Light (Radio Edit)',art:'single-into-the-light.jpg',url:'https://open.spotify.com/album/26ulTwQ11BlVrAJAqCFsRK'},
